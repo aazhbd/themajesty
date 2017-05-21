@@ -1,0 +1,148 @@
+/**
+* @author        ArticulateLogic Labs
+* @author        Abdullah Al Zakir Hossain, Email: aazhbd@yahoo.com 
+* @copyright     Copyright (c)2013 - 2015 ArticulateLogic Labs
+*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Bree+Serif);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    font-family: 'Open Sans', sans-serif, Verdana;
+    font-size: 14px;
+    font-size: 1vmax;
+    color: #000;
+    margin: 0 auto;
+    position: absolute;
+    -webkit-font-smoothing: antialiased;
+}
+
+@media (min-width: 1000px) {
+    body {
+        font-size: 1vmax;
+    }
+}
+
+div {
+    height: auto;
+}
+
+h1 {
+    font-size: 2em;
+    color: #333;
+}
+
+h1 a {
+    text-decoration: none;
+    color: #333;
+}
+
+h2, h2 a {
+    font-size: 1.3em;
+    font-weight: normal;
+    padding: 4px 0;
+}
+
+h3, h3 a {
+    font-size: 1em;
+}
+
+ul {
+    list-style: none;
+}
+
+p {
+    text-align: justify;
+    padding: 8px 0;
+}
+
+p a {
+    color: #1D62B3;
+}
+
+a {
+    text-decoration: none;
+    color: #1D62B3;
+    font-size: 1em;
+}
+
+a:hover {
+    background: none;
+    color: #E43C15;
+}
+
+img {
+    border: none;
+}
+
+blockquote {
+    border-left: 4px solid #dddddd;
+    padding: 0 15px;
+    color: #777777;
+}
+
+blockquote > :first-child {
+    margin-top: 0;
+}
+
+blockquote > :last-child {
+    margin-bottom: 0;
+}
+
+
+.logo {
+    height: 100px;
+    font-size: 44px;
+}
+
+
+#banner {
+    text-align: center;
+    margin: auto;
+    float: none;
+    padding: 20px;
+}
+
+
+/* gallery styles */
+
+.product_gallery {
+    display: block;
+}
+
+.bx-wrapper, .bx-viewport {
+    height: 400px !important;
+    margin: 0 auto 20px !important;
+}
+
+#left-arrow {
+    height: 32px;
+}
+
+#right-arrow {
+    height: 32px;
+}
+
+/* gallery styles */
+
+
+/* start footer */
+
+#footer {
+    text-align: center;
+    margin: auto;
+    color: #999;
+    float: none;
+    padding: 20px;
+}
+
+#footer p {
+    text-align: center;
+}
+
+/* end footer */
