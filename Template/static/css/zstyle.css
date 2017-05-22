@@ -130,6 +130,11 @@ blockquote > :last-child {
 
 /* gallery styles */
 
+.body {
+    padding: 20px;
+    margin: 20px auto;
+}
+
 
 /* start footer */
 
