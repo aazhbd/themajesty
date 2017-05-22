@@ -112,6 +112,7 @@ blockquote > :last-child {
 
 #navigatemenu {
     float:none;
+    clear:both;
 }
 
 
