@@ -110,6 +110,10 @@ blockquote > :last-child {
     padding: 20px;
 }
 
+#navigatemenu {
+    float:none;
+}
+
 
 /* gallery styles */
 
