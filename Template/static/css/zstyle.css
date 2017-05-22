@@ -103,7 +103,7 @@ blockquote > :last-child {
 
 #logowrap {
     margin: auto;
-    width: 50%;
+    width: 40%;
     padding: 10px;
 }
 
@@ -112,6 +112,10 @@ blockquote > :last-child {
     width: auto;
     height: 100px;
     font-size: 44px;
+}
+
+.brand {
+    padding: 10px 0;
 }
 
 #navigatemenu {
