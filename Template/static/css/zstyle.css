@@ -96,6 +96,7 @@ blockquote > :last-child {
 
 
 .logo {
+    float: left;
     height: 100px;
     font-size: 44px;
 }
