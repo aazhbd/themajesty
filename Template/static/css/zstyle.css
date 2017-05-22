@@ -94,6 +94,11 @@ blockquote > :last-child {
     margin-bottom: 0;
 }
 
+#logowrap {
+    text-align: center;
+    margin: auto;
+    float: none;
+}
 
 .logo {
     float: left;
