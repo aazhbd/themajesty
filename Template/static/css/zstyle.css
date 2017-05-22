@@ -130,7 +130,7 @@ blockquote > :last-child {
 
 /* gallery styles */
 
-.body {
+#contentbody {
     padding: 20px;
     margin: 20px auto;
 }
