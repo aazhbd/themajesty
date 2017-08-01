@@ -39,7 +39,7 @@
     <div class="product_gallery">
         {% for a in articles %}
         <div class="row collapse slide-pane">
-            <div class="body">{{ a.body }}</div>
+            <div class="body">{{ a.body|raw }}</div>
         </div>
         {% endfor %}
     </div>
